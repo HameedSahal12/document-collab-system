@@ -1,0 +1,18 @@
+.recent-shell-card {
+  border-radius: 14px;
+}
+
+body.dark-theme .recent-shell-card {
+  backdrop-filter: blur(20px);
+  background: rgba(21, 24, 29, 0.7) !important;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: none !important;
+}
+
+.recent-shell-card button {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.recent-shell-card button:hover {
+  transform: translateY(-1px);
+}
