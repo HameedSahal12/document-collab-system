@@ -1,0 +1,18 @@
+# Node
+document-collab-frontend/node_modules/
+document-collab-frontend/build/
+
+# Python
+document-collab-backend/venv/
+document-collab-backend/__pycache__/
+
+# Environment files
+*.env
+.env
+
+# Mac / Windows / misc
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

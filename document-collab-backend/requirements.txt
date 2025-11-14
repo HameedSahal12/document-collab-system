@@ -1,0 +1,12 @@
+Flask
+flask-socketio
+flask-cors
+flask-pymongo
+pymongo
+flask-jwt-extended
+flask-bcrypt
+sumy
+nltk
+python-docx
+python-dotenv
+werkzeug
